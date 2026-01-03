@@ -46,7 +46,7 @@ I am a Software Engineering student at Addis Ababa Science and Technology Univer
 ---
 
 ## Extracurricular Activities
-- **President, AASTU English Debate Club** – Organized competitions, led team to National University Debate Championship win (2023)  
+- **Member, AASTU English Debate Club** – Organized competitions, led team to National University Debate Championship win (2023)  
 - **Volunteer, Addis Ababa Youth Empowerment Program** – Supported leadership workshops and youth guidance  
 - **Member, AASTU Coding Club** – Collaborated on small software projects and coding challenges
 
