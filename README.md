@@ -1,5 +1,5 @@
 # MY-PORFOLIO
-Portfolio for Scholarship Application 
+Portfolio for job Application 
 # Yonel Atnafu – Portfolio
 
 ## About Me
